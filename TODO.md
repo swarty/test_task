@@ -24,7 +24,7 @@ You should not focus on the design of the page, the main goal is to connect it w
 Consider it done once you have the movie title and poster, polish it if you have time.
 +
 
-## Improve the movie list
+## Improve the movie list +
 
 In the home page there is currently no link to the detail page.
 Your goal is to link it using a `router-link`.
@@ -32,5 +32,7 @@ Your goal is to link it using a `router-link`.
 
 You should also add a "load more" button to show other pages.
 You are expected to add tests for this "load more".
++
 
 Finally you can add filters on this page, to show only `series` or `movies` for example.
++
